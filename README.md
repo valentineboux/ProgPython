@@ -1,2 +1,2 @@
 # ProgPython
-Changement local 
+Changement satisfaisant
